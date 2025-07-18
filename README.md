@@ -1,5 +1,5 @@
-Brain Tumor Classification using CNN
-  Author : Chethan T
+**Brain Tumor Classification using CNN**
+
 🧠 Overview
 This project combines deep learning and web development to create an MRI brain tumor classification system. It begins with a Jupyter Notebook (tumor-classification-cnn.ipynb) that preprocesses MRI data and builds a robust Convolutional Neural Network (CNN) for classifying brain tumors. CNNs were chosen for their proven success in identifying spatial features in medical images, offering excellent performance for MRI analysis.
 
